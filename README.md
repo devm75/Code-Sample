@@ -1,1 +1,1 @@
-Code Sample for Product Display Page of an Ecommerce platform with MVC architecture
+Code Sample for Product Display Page of an Ecommerce platform with MVC architecture in React/Nextjs
